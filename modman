@@ -1,0 +1,7 @@
+src/app/code/core/Mage/Payment/                                     app/code/core/Mage/Payment/
+src/app/design/adminhtml/default/default/template/payment/          app/design/adminhtml/default/default/template/payment/
+src/app/design/frontend/base/default/layout/payment.xml             app/design/frontend/base/default/layout/payment.xml
+src/app/design/frontend/base/default/template/payment/              app/design/frontend/base/default/template/payment/
+src/app/design/frontend/rwd/default/template/payment/               app/design/frontend/rwd/default/template/payment/
+src/app/etc/modules/Mage_Payment.xml                                app/etc/modules/Mage_Payment.xml
+src/app/locale/en_US/Mage_Payment.csv                               app/locale/en_US/Mage_Payment.csv
